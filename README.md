@@ -39,7 +39,7 @@ Repositório com atividades acadêmicas organizadas, incluindo:
 - Exercícios de lógica e algoritmos  
 - Análise de usabilidade
   
-🔗 (https://github.com/lucascamargo2/sistemas-de-informa-o-estudos)
+🔗 https://github.com/lucascamargo2/sistemas-de-informa-o-estudos
 ---
 
 ### Portfólio Web
