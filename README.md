@@ -9,7 +9,7 @@ Focado em Java, desenvolvimento web e construção de projetos reais
 Sou estudante de Sistemas de Informação com foco em desenvolvimento de software.  
 Busco evoluir constantemente minha lógica, estrutura de código e capacidade de resolver problemas reais.
 
-Tenho interesse em backend, organização de sistemas e desenvolvimento de aplicações úteis no dia a dia.
+Tenho interesse em backend, frontend, organização de sistemas e desenvolvimento de aplicações úteis no dia a dia.
 
 ---
 
@@ -44,13 +44,6 @@ Foco em lógica e manipulação de arquivos
 Site pessoal para apresentação de projetos  
 Desenvolvido com HTML, CSS e JavaScript  
 Foco em organização visual e experiência do usuário
-
----
-
-### OnlyGadgets (em desenvolvimento)
-Sistema para gerenciamento de assistências técnicas  
-Inclui cadastro de clientes, dispositivos e acompanhamento de serviços  
-Projeto voltado para resolver problemas reais
 
 ---
 
