@@ -31,12 +31,13 @@ Tenho interesse em backend, frontend, organização de sistemas e desenvolviment
 
 ---
 
-## Projetos em destaque
+### [Estudos de Sistemas de Informacao](https://github.com/lucascamargo2/software-engineering-studies)
 
-### DirTools
-Aplicação em Java que analisa diretórios usando recursão  
-Permite buscar arquivos, calcular tamanho de pastas e identificar níveis de profundidade  
-Foco em lógica e manipulação de arquivos
+Repositório com atividades acadêmicas organizadas, incluindo:
+- Diagramas UML  
+- Modelagem de banco de dados  
+- Exercícios de lógica e algoritmos  
+- Análise de usabilidade  
 
 ---
 
