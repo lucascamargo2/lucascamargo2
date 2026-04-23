@@ -39,7 +39,7 @@ Repositório com atividades acadêmicas organizadas, incluindo:
 - Exercícios de lógica e algoritmos  
 - Análise de usabilidade
   
-🔗 https://github.com/lucascamargo2/sistemas-de-informa-o-estudos
+🔗 (https://github.com/lucascamargo2/sistemas-de-informa-o-estudos)
 ---
 
 ### Portfólio Web
@@ -50,7 +50,6 @@ Foco em organização visual e experiência do usuário
 ---
 
 ## Estatísticas
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascamargo2&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascamargo2&layout=compact)
 
