@@ -9,7 +9,7 @@ Focused on Java, Web Development and Data
 - Focused on building real-world projects
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=java,js,html,css,SQL,github,vscode)
 
 ## Featured Projects
 - DirTools → Java CLI for directory analysis using recursion
