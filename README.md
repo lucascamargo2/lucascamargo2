@@ -31,7 +31,7 @@ Tenho interesse em backend, frontend, organização de sistemas e desenvolviment
 
 ---
 
-### [Estudos de Sistemas de Informacao](https://github.com/lucascamargo2/software-engineering-studies)
+### [Estudos de Sistemas de Informacao](https://github.com/lucascamargo2/sistemas-de-informa-o-estudos)
 
 Repositório com atividades acadêmicas organizadas, incluindo:
 - Diagramas UML  
@@ -39,8 +39,7 @@ Repositório com atividades acadêmicas organizadas, incluindo:
 - Exercícios de lógica e algoritmos  
 - Análise de usabilidade
   
-🔗 https://github.com/lucascamargo2/software-engineering-studies
-
+🔗 https://github.com/lucascamargo2/sistemas-de-informa-o-estudos
 ---
 
 ### Portfólio Web
