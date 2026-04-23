@@ -52,8 +52,6 @@ Foco em organização visual e experiência do usuário
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascamargo2&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lucascamargo2)
-
 ---
 
 ## Objetivos
