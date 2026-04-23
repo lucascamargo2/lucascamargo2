@@ -37,7 +37,9 @@ Repositório com atividades acadêmicas organizadas, incluindo:
 - Diagramas UML  
 - Modelagem de banco de dados  
 - Exercícios de lógica e algoritmos  
-- Análise de usabilidade  
+- Análise de usabilidade
+  
+🔗 https://github.com/lucascamargo2/software-engineering-studies
 
 ---
 
